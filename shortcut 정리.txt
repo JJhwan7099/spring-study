@@ -4,3 +4,4 @@
 변수 추출    Ctrl + Alt + V
 static import    Alt + Enter
 복사후 변수 일괄변경    Shift + F6
+커서가 위치한 메서드의 매개변수 조회 Ctrl + P
