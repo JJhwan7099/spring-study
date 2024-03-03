@@ -3,3 +3,4 @@
 메서드추출    Ctrl + Alt + M 
 변수 추출    Ctrl + Alt + V
 static import    Alt + Enter
+복사후 변수 일괄변경    Shift + F6
