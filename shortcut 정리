@@ -1,1 +1,4 @@
-#
+#단축키 정리
+리팩토링    Shift + Ctrl + Alt + T
+메서드추출    Ctrl + Alt + M 
+변수 추출    Ctrl + Alt + V
