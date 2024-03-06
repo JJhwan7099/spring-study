@@ -5,3 +5,4 @@
 static import    Alt + Enter
 복사후 변수 일괄변경    Shift + F6
 커서가 위치한 메서드의 매개변수 조회 Ctrl + P
+이전 파일 보기, 파일 찾기     Ctrl+E
